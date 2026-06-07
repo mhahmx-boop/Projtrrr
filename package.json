@@ -1,15 +1,12 @@
 {
-  "name": "zox-bot",
+  "name": "vault-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Discord Vault Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.11.0"
-  },
-  "engines": {
-    "node": "18.x"
+    "discord.js": "^14.14.1"
   }
 }
